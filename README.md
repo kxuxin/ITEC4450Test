@@ -15,3 +15,4 @@ Here's a to do list, each of you pick one task(put your name next to the task): 
 6. Create a simple page for each group( Upload a picture that represents the spirit your team; Add the names of each team member; link your name to the resume) If you didn't do anything, contribue to the group page </br>
 7. Anything else that you did to improve this page, please list it here.  
 8. Change anything you'd like on the README.md... no one reads it anyway.
+9. I really don't like tomato soup. Unless it has goat cheese in it.
